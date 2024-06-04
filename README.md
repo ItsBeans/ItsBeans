@@ -1,10 +1,10 @@
 ## 👋 **Hey! I'm Benediktas.**  
 
 20-year-old software engineer from **London, England**.
-//Final year Computer Science at KCL
+
 ---
 
-### Experience
+### Skills
 
 - Python (Django, PyTorch) 
 - JavaScript 
@@ -14,7 +14,7 @@
 - Kotlin
 
 
-### Currently Learning
+### Currently Learning..
 - Next.js
 - TypeScript
 
