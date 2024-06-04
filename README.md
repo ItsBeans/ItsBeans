@@ -1,7 +1,7 @@
 ## 👋 **Hey! I'm Benediktas.**  
 
 20-year-old software engineer from **London, England**.
-Final year Computer Science at KCL
+//Final year Computer Science at KCL
 ---
 
 ### Experience
