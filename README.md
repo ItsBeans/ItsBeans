@@ -1,6 +1,6 @@
-## 👋 **Hey! I'm Benediktas.**  
+## **Hey!**  
 
-20-year-old software engineer from **London, England**.
+I'm Benediktas, a 20-year-old software engineer from **London, England**.
 
 ---
 
