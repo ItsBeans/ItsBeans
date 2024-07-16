@@ -9,7 +9,7 @@ I'm Benediktas, a 20-year-old software engineer from **London, England**.
 - Python (Django, PyTorch) 
 - JavaScript 
 - React.js
-- HTML, CSS (TailwindCSS)
+- HTML, CSS 
 - SQLite, MongoDB
 - Kotlin
 
