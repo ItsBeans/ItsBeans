@@ -6,11 +6,11 @@ I'm Benediktas, a 21-year-old software engineer from **London, England**.
 
 ### Skills
 
-- Python (Django, PyTorch)
+- Python (Django, PyTorch, TensorFlow, Pandas)
 - R
 - SQL, MongoDB
-- JavaScript 
-- React.js
+- JavaScript, TypeScript
+- React, Next
 - HTML, CSS 
 - Kotlin
 
