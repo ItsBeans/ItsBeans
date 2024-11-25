@@ -18,7 +18,6 @@ I'm Benediktas, a 21-year-old software engineer from **London, England**.
 ### What am I currently working on?
 - Learning more about deep learning techniques
 - Implementing ML papers from scratch
-- Improving my personal portfolio
 - Building something big
 
 ### Contact
