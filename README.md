@@ -1,6 +1,6 @@
 ## **Hey!**  
 
-I'm Benediktas, a 21-year-old software engineer from **London, England**.
+I'm Benny, a 21-year-old software engineer from **London, England**.
 
 ---
 
