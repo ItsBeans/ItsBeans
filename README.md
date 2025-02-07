@@ -20,7 +20,7 @@ I'm Benny, a 21-year-old software engineer from **London, England**.
 ### What am I currently working on?
 - Learning more about deep learning techniques
 - Implementing ML papers from scratch
-- Building something big
+- Building stuff
 
 ### Contact
 
