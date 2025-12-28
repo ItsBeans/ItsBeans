@@ -1,6 +1,6 @@
 ## **Hey!**  
 
-I'm Benny, a 21-year-old software engineer from **London, England**.
+I'm Benny, a 22-year-old software engineer based in **London, England**.
 
 ---
 
@@ -8,7 +8,7 @@ I'm Benny, a 21-year-old software engineer from **London, England**.
 
 - Python (Django, PyTorch, TensorFlow, Pandas)
 - R
-- SQL, MongoDB
+- SQL
 - JavaScript, TypeScript
 - React, Next
 - HTML, CSS
