@@ -1,23 +1,13 @@
-## **Hey!**  
+### Hey, I'm Benny
 
-I'm Benny, a 22-year-old software engineer based in **London, England**.
+Software engineer based in London, currently at Fifty One Degrees. I studied
+Computer Science with AI at King's College London.
 
----
+Most of what I do is building software that's genuinely useful, usually with AI
+involved. A fair bit of it lives in private repos.
 
-### Skills
+Off the clock I build small tools for myself when something annoys me enough,
+and I write the odd thing about it over at [bennyrocys.dev](https://bennyrocys.dev).
 
-- Python (Django, PyTorch, TensorFlow, Pandas)
-- R
-- SQL
-- JavaScript, TypeScript
-- React, Next
-- HTML, CSS
-
-
-### What am I currently working on?
-- Learning
-- Building stuff
-
-### Contact
-
-✉️ mail • [bennyrocys@gmail.com](mailto:bennyrocys@gmail.com)  
+**Reach for:** Python · TypeScript · React / Next.js · SQL
+**Say hi:** bennyrocys@gmail.com
