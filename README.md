@@ -1,3 +1,6 @@
+<img width="1280" height="320" alt="image" src="https://github.com/user-attachments/assets/82b92f9b-fab2-4f90-8433-7bc27eecdb2a" />
+
+
 ### Hey, I'm Benny
 
 Software engineer based in London, currently at Fifty One Degrees. I studied
