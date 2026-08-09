@@ -3,15 +3,17 @@
 
 ### Hey, I'm Benny
 
-Software engineer based in London, currently at Fifty One Degrees. I studied
+Software engineer at Fifty One Degrees in London, where I build production AI
+systems, mostly agentic workflows that automate real business problems, end to
+end. I studied
 Computer Science with AI at King's College London.
 
 Most of what I do is building software that's genuinely useful, usually with AI
 involved. A fair bit of it lives in private repos.
 
 Off the clock I build small tools for myself when something annoys me enough,
-and I write the odd thing about it over at [bennyrocys.dev](https://bennyrocys.dev)
+and I write the odd thing over at [bennyrocys.dev](https://bennyrocys.dev)
 
-**Reach for:** Python · TypeScript · React / Next.js · SQL 
+**Reach for:** Python · FastAPI · agentic AI (RAG, evals, MCP) · TypeScript / Next.js · Docker
 
 **Say hi:** bennyrocys@gmail.com
