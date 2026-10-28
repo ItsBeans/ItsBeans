@@ -11,8 +11,7 @@ Computer Science with AI at King's College London.
 Most of what I do is building software that's genuinely useful, usually with AI
 involved. A fair bit of it lives in private repos.
 
-Off the clock I build small tools for myself when something annoys me enough,
-and I write the odd thing over at [bennyrocys.dev](https://bennyrocys.dev)
+Off the clock I'm either reading, eating or playing games.
 
 **Reach for:** Python · FastAPI · agentic AI (RAG, evals, MCP) · TypeScript / Next.js · Docker
 
